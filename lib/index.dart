@@ -1,0 +1,317 @@
+// Export pages
+export '/health/psychology/pregame_psychology/pregame_psychology_widget.dart'
+    show PregamePsychologyWidget;
+export '/goals/goals_widget.dart' show GoalsWidget;
+export '/main_menu1/main_menu1_widget.dart' show MainMenu1Widget;
+export '/profile_page/profile_page_widget.dart' show ProfilePageWidget;
+export '/ice_training/training_stick_tech/stick_tech_skate_stick/stick_tech_skate_stick_widget.dart'
+    show StickTechSkateStickWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_ulitka/virazhy_ulitka_widget.dart'
+    show VirazhyUlitkaWidget;
+export '/health1/health1_widget.dart' show Health1Widget;
+export '/ice_training/tech_of_skate/tech_of_skate_widget.dart'
+    show TechOfSkateWidget;
+export '/training/training_widget.dart' show TrainingWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_widget.dart'
+    show VirazhyWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_widget.dart'
+    show EdgesWidget;
+export '/ice_training/trainings_tech_of_skating/steps/steps_widget.dart'
+    show StepsWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_widget.dart'
+    show ShipsWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_fast_ulitka/virazhy_fast_ulitka_widget.dart'
+    show VirazhyFastUlitkaWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_ulitka_b_t_o_f/virazhy_ulitka_b_t_o_f_widget.dart'
+    show VirazhyUlitkaBTOFWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_liying_ulitka/virazhy_liying_ulitka_widget.dart'
+    show VirazhyLiyingUlitkaWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_christ/virazhy_christ_widget.dart'
+    show VirazhyChristWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_ulitka_plus_jump/virazhy_ulitka_plus_jump_widget.dart'
+    show VirazhyUlitkaPlusJumpWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_inside/edges_inside_widget.dart'
+    show EdgesInsideWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_outside/edges_outside_widget.dart'
+    show EdgesOutsideWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_slalom/edges_slalom_widget.dart'
+    show EdgesSlalomWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_stop1/edges_stop1_widget.dart'
+    show EdgesStop1Widget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_fleshlights/edges_fleshlights_widget.dart'
+    show EdgesFleshlightsWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_christ_steps/edges_christ_steps_widget.dart'
+    show EdgesChristStepsWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_pliometrika_ice/edges_pliometrika_ice_widget.dart'
+    show EdgesPliometrikaIceWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_chelnok/edges_chelnok_widget.dart'
+    show EdgesChelnokWidget;
+export '/ice_training/trainings_tech_of_skating/edges/b_t_o_f_on_backon_forward/b_t_o_f_on_backon_forward_widget.dart'
+    show BTOFOnBackonForwardWidget;
+export '/ice_training/trainings_tech_of_skating/edges/b_t_o_f_jumping/b_t_o_f_jumping_widget.dart'
+    show BTOFJumpingWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_complex/virazhy_complex_widget.dart'
+    show VirazhyComplexWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_slice_plus_ubor_pod_sebya/edges_slice_plus_ubor_pod_sebya_widget.dart'
+    show EdgesSlicePlusUborPodSebyaWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_slice_plus_ulitka/virazhy_slice_plus_ulitka_widget.dart'
+    show VirazhySlicePlusUlitkaWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_stop2/edges_stop2_widget.dart'
+    show EdgesStop2Widget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_ship/ships_ship_widget.dart'
+    show ShipsShipWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_plus_ulitka/ships_plus_ulitka_widget.dart'
+    show ShipsPlusUlitkaWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_on_forward/ships_on_forward_widget.dart'
+    show ShipsOnForwardWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ship_reverse_plus_ubor_pod_sebya/ship_reverse_plus_ubor_pod_sebya_widget.dart'
+    show ShipReversePlusUborPodSebyaWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_b_t_o_f_plus8/ships_b_t_o_f_plus8_widget.dart'
+    show ShipsBTOFPlus8Widget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_plus_sit/ships_plus_sit_widget.dart'
+    show ShipsPlusSitWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_reverse/ships_reverse_widget.dart'
+    show ShipsReverseWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_on_forward_and_ulitka/ships_on_forward_and_ulitka_widget.dart'
+    show ShipsOnForwardAndUlitkaWidget;
+export '/ice_training/trainings_tech_of_skating/steps/steps_snake/steps_snake_widget.dart'
+    show StepsSnakeWidget;
+export '/ice_training/trainings_tech_of_skating/steps/steps_first_leg/steps_first_leg_widget.dart'
+    show StepsFirstLegWidget;
+export '/ice_training/trainings_tech_of_skating/steps/steps_second_leg/steps_second_leg_widget.dart'
+    show StepsSecondLegWidget;
+export '/ice_training/trainings_tech_of_skating/steps/steps_first_leg_back/steps_first_leg_back_widget.dart'
+    show StepsFirstLegBackWidget;
+export '/ice_training/trainings_tech_of_skating/steps/steps_second_leg_back/steps_second_leg_back_widget.dart'
+    show StepsSecondLegBackWidget;
+export '/ice_training/trainings_tech_of_skating/steps/steps_second_leg_plus/steps_second_leg_plus_widget.dart'
+    show StepsSecondLegPlusWidget;
+export '/ice_training/trainings_tech_of_skating/steps/steps_second_leg_plus_back/steps_second_leg_plus_back_widget.dart'
+    show StepsSecondLegPlusBackWidget;
+export '/ice_training/shooting/shooting_widget.dart' show ShootingWidget;
+export '/ice_training/training_tech_of_shooting/shooting_forehand/shooting_forehand_widget.dart'
+    show ShootingForehandWidget;
+export '/ice_training/training_tech_of_shooting/shooting_backhand/shooting_backhand_widget.dart'
+    show ShootingBackhandWidget;
+export '/ice_training/training_tech_of_shooting/shooting_shelchok/shooting_shelchok_widget.dart'
+    show ShootingShelchokWidget;
+export '/ice_training/training_tech_of_shooting/shooting_rapid_shoot/shooting_rapid_shoot_widget.dart'
+    show ShootingRapidShootWidget;
+export '/ice_training/training_tech_of_shooting/shooting_statick/shooting_statick_widget.dart'
+    show ShootingStatickWidget;
+export '/ice_training/training_tech_of_shooting/shooting_one_timer/shooting_one_timer_widget.dart'
+    show ShootingOneTimerWidget;
+export '/ice_training/training_tech_of_shooting/shooting_quick_shot_after_perebor/shooting_quick_shot_after_perebor_widget.dart'
+    show ShootingQuickShotAfterPereborWidget;
+export '/ice_training/training_tech_of_shooting/shooting_after_two_passes/shooting_after_two_passes_widget.dart'
+    show ShootingAfterTwoPassesWidget;
+export '/ice_training/training_tech_of_shooting/shooting_quick_shot_after_pass/shooting_quick_shot_after_pass_widget.dart'
+    show ShootingQuickShotAfterPassWidget;
+export '/ice_training/training_tech_of_shooting/shooting_shoot_from_myself/shooting_shoot_from_myself_widget.dart'
+    show ShootingShootFromMyselfWidget;
+export '/ice_training/training_tech_of_shooting/shooting_from_one_leg_statick/shooting_from_one_leg_statick_widget.dart'
+    show ShootingFromOneLegStatickWidget;
+export '/ice_training/training_tech_of_shooting/shooting_short_schelchok/shooting_short_schelchok_widget.dart'
+    show ShootingShortSchelchokWidget;
+export '/ice_training/training_tech_of_shooting/shooting_from_myself_after_second_puck/shooting_from_myself_after_second_puck_widget.dart'
+    show ShootingFromMyselfAfterSecondPuckWidget;
+export '/ice_training/training_tech_of_shooting/shooting_sit_on_platform/shooting_sit_on_platform_widget.dart'
+    show ShootingSitOnPlatformWidget;
+export '/ice_training/training_tech_of_shooting/shooting_one_leg_on_platform_back/shooting_one_leg_on_platform_back_widget.dart'
+    show ShootingOneLegOnPlatformBackWidget;
+export '/ice_training/training_tech_of_shooting/shooting_quick_shot_after_jump_on_leg/shooting_quick_shot_after_jump_on_leg_widget.dart'
+    show ShootingQuickShotAfterJumpOnLegWidget;
+export '/ice_training/training_tech_of_shooting/shooting_shot_from_knee_after_perestupaniye/shooting_shot_from_knee_after_perestupaniye_widget.dart'
+    show ShootingShotFromKneeAfterPerestupaniyeWidget;
+export '/ice_training/training_tech_of_shooting/shooting_in_static_jump_from_leg_to_leg/shooting_in_static_jump_from_leg_to_leg_widget.dart'
+    show ShootingInStaticJumpFromLegToLegWidget;
+export '/ice_training/training_tech_of_shooting/shooting_quick_shot_after_lie_backhand_forehand/shooting_quick_shot_after_lie_backhand_forehand_widget.dart'
+    show ShootingQuickShotAfterLieBackhandForehandWidget;
+export '/earth_training/earth_lovkost/earth_lovkost_widget.dart'
+    show EarthLovkostWidget;
+export '/earth_training/earth_moshnost/earth_moshnost_widget.dart'
+    show EarthMoshnostWidget;
+export '/earth_training/earth_vynoslivost/earth_vynoslivost_widget.dart'
+    show EarthVynoslivostWidget;
+export '/earth_training/earth_balance/earth_balance_widget.dart'
+    show EarthBalanceWidget;
+export '/earth_training/earth_force/earth_force_widget.dart'
+    show EarthForceWidget;
+export '/earth_training/earth_speed/earth_speed_widget.dart'
+    show EarthSpeedWidget;
+export '/health/psychology/after_game_psychlogy/after_game_psychlogy_widget.dart'
+    show AfterGamePsychlogyWidget;
+export '/health/psychology/free_day_psychology/free_day_psychology_widget.dart'
+    show FreeDayPsychologyWidget;
+export '/health/psychology/before_training_psychology/before_training_psychology_widget.dart'
+    show BeforeTrainingPsychologyWidget;
+export '/health/psychology/after_training_psychology/after_training_psychology_widget.dart'
+    show AfterTrainingPsychologyWidget;
+export '/health/psychology/on_vacation_psychology/on_vacation_psychology_widget.dart'
+    show OnVacationPsychologyWidget;
+export '/health/sleep/sleep_pregame/sleep_pregame_widget.dart'
+    show SleepPregameWidget;
+export '/health/sleep/sleep_aftergame/sleep_aftergame_widget.dart'
+    show SleepAftergameWidget;
+export '/health/sleep/sleep_trainingday/sleep_trainingday_widget.dart'
+    show SleepTrainingdayWidget;
+export '/health/sleep/sleep_freeday/sleep_freeday_widget.dart'
+    show SleepFreedayWidget;
+export '/health/sleep/sleep_onvacation/sleep_onvacation_widget.dart'
+    show SleepOnvacationWidget;
+export '/health/eating/eating_pregame/eating_pregame_widget.dart'
+    show EatingPregameWidget;
+export '/health/eating/eating_before_training/eating_before_training_widget.dart'
+    show EatingBeforeTrainingWidget;
+export '/health/eating/eating_after_training/eating_after_training_widget.dart'
+    show EatingAfterTrainingWidget;
+export '/health/eating/eating_free_days/eating_free_days_widget.dart'
+    show EatingFreeDaysWidget;
+export '/health/eating/eating_after_game/eating_after_game_widget.dart'
+    show EatingAfterGameWidget;
+export '/earth_training/earth_speed_training/speed_jumping_on_platform/speed_jumping_on_platform_widget.dart'
+    show SpeedJumpingOnPlatformWidget;
+export '/earth_training/earth_speed_training/speed_running_on_lestnitsa/speed_running_on_lestnitsa_widget.dart'
+    show SpeedRunningOnLestnitsaWidget;
+export '/earth_training/earth_speed_training/speed_running_on_side/speed_running_on_side_widget.dart'
+    show SpeedRunningOnSideWidget;
+export '/earth_training/earth_speed_training/speed_running_on_place/speed_running_on_place_widget.dart'
+    show SpeedRunningOnPlaceWidget;
+export '/earth_training/earth_speed_training/speed_sprinting/speed_sprinting_widget.dart'
+    show SpeedSprintingWidget;
+export '/earth_training/earth_speed_training/speed_snakes/speed_snakes_widget.dart'
+    show SpeedSnakesWidget;
+export '/earth_training/earth_speed_training/speed_frogg/speed_frogg_widget.dart'
+    show SpeedFroggWidget;
+export '/earth_training/earth_vynoslivost_training/vynoslivost_byke/vynoslivost_byke_widget.dart'
+    show VynoslivostBykeWidget;
+export '/earth_training/earth_vynoslivost_training/vynoslivost_circles/vynoslivost_circles_widget.dart'
+    show VynoslivostCirclesWidget;
+export '/earth_training/earth_vynoslivost_training/vynoslivost_m_football/vynoslivost_m_football_widget.dart'
+    show VynoslivostMFootballWidget;
+export '/earth_training/earth_vynoslivost_training/vynoslivost_skakalka_p_sprint/vynoslivost_skakalka_p_sprint_widget.dart'
+    show VynoslivostSkakalkaPSprintWidget;
+export '/earth_training/earth_vynoslivost_training/vynoslivost_tabata/vynoslivost_tabata_widget.dart'
+    show VynoslivostTabataWidget;
+export '/earth_training/earth_vynoslivost_training/vynoslivost_swimming/vynoslivost_swimming_widget.dart'
+    show VynoslivostSwimmingWidget;
+export '/earth_training/earth_moshnost_training/moshnost_otzhim_v_pryzhke/moshnost_otzhim_v_pryzhke_widget.dart'
+    show MoshnostOtzhimVPryzhkeWidget;
+export '/earth_training/earth_moshnost_training/moshnost_jump_from_sit/moshnost_jump_from_sit_widget.dart'
+    show MoshnostJumpFromSitWidget;
+export '/earth_training/earth_moshnost_training/moshnost_medicin_ball/moshnost_medicin_ball_widget.dart'
+    show MoshnostMedicinBallWidget;
+export '/earth_training/earth_moshnost_training/moshnost_jump_from_one_leg/moshnost_jump_from_one_leg_widget.dart'
+    show MoshnostJumpFromOneLegWidget;
+export '/earth_training/earth_moshnost_training/moshnost_paliometrica/moshnost_paliometrica_widget.dart'
+    show MoshnostPaliometricaWidget;
+export '/earth_training/earth_moshnost_training/moshnost_zhgut/moshnost_zhgut_widget.dart'
+    show MoshnostZhgutWidget;
+export '/earth_training/earth_moshnost_training/moshnost_zhim/moshnost_zhim_widget.dart'
+    show MoshnostZhimWidget;
+export '/earth_training/earth_lovkost_training/lovkst_kuvyrok/lovkst_kuvyrok_widget.dart'
+    show LovkstKuvyrokWidget;
+export '/earth_training/earth_lovkost_training/lovkost_step/lovkost_step_widget.dart'
+    show LovkostStepWidget;
+export '/earth_training/earth_lovkost_training/lovkost_legging/lovkost_legging_widget.dart'
+    show LovkostLeggingWidget;
+export '/earth_training/earth_lovkost_training/lovkost_jump_on_side/lovkost_jump_on_side_widget.dart'
+    show LovkostJumpOnSideWidget;
+export '/earth_training/earth_lovkost_training/lovkost_prygalka/lovkost_prygalka_widget.dart'
+    show LovkostPrygalkaWidget;
+export '/earth_training/earth_lovkost_training/lovkost_small_area/lovkost_small_area_widget.dart'
+    show LovkostSmallAreaWidget;
+export '/earth_training/earth_lovkost_training/lovkost_tennisball/lovkost_tennisball_widget.dart'
+    show LovkostTennisballWidget;
+export '/earth_training/earth_force_training/force_bicepcs/force_bicepcs_widget.dart'
+    show ForceBicepcsWidget;
+export '/earth_training/earth_force_training/force_brusya/force_brusya_widget.dart'
+    show ForceBrusyaWidget;
+export '/earth_training/earth_force_training/force_plank/force_plank_widget.dart'
+    show ForcePlankWidget;
+export '/earth_training/earth_force_training/force_turnik/force_turnik_widget.dart'
+    show ForceTurnikWidget;
+export '/earth_training/earth_force_training/force_sit/force_sit_widget.dart'
+    show ForceSitWidget;
+export '/earth_training/earth_force_training/force_tyaga/force_tyaga_widget.dart'
+    show ForceTyagaWidget;
+export '/earth_training/earth_force_training/force_otzhim_pauk/force_otzhim_pauk_widget.dart'
+    show ForceOtzhimPaukWidget;
+export '/earth_training/earth_balance_training/balance_millenium/balance_millenium_widget.dart'
+    show BalanceMilleniumWidget;
+export '/earth_training/earth_balance_training/balance_prised_on_podushka/balance_prised_on_podushka_widget.dart'
+    show BalancePrisedOnPodushkaWidget;
+export '/earth_training/earth_balance_training/balance_supermen/balance_supermen_widget.dart'
+    show BalanceSupermenWidget;
+export '/earth_training/earth_balance_training/balance_skruchivanya_v_upore/balance_skruchivanya_v_upore_widget.dart'
+    show BalanceSkruchivanyaVUporeWidget;
+export '/earth_training/earth_balance_training/balance_jump_on_stepup/balance_jump_on_stepup_widget.dart'
+    show BalanceJumpOnStepupWidget;
+export '/earth_training/earth_balance_training/balance_one_leg_sit/balance_one_leg_sit_widget.dart'
+    show BalanceOneLegSitWidget;
+export '/earth_training/earth_balance_training/balance_bird/balance_bird_widget.dart'
+    show BalanceBirdWidget;
+export '/ice_training/ice_stick_tech/ice_stick_tech_widget.dart'
+    show IceStickTechWidget;
+export '/ice_training/training_stick_tech/stick_eight/stick_eight_widget.dart'
+    show StickEightWidget;
+export '/ice_training/training_stick_tech/stick_weight_perebor/stick_weight_perebor_widget.dart'
+    show StickWeightPereborWidget;
+export '/ice_training/training_stick_tech/stick_underself/stick_underself_widget.dart'
+    show StickUnderselfWidget;
+export '/ice_training/training_stick_tech/stick_forehand/stick_forehand_widget.dart'
+    show StickForehandWidget;
+export '/ice_training/training_stick_tech/stick_backhand/stick_backhand_widget.dart'
+    show StickBackhandWidget;
+export '/ice_training/training_stick_tech/stick_fast_dribble/stick_fast_dribble_widget.dart'
+    show StickFastDribbleWidget;
+export '/ice_training/training_stick_tech/stick_twice_underself/stick_twice_underself_widget.dart'
+    show StickTwiceUnderselfWidget;
+export '/ice_training/training_stick_tech/stick_speed_puckline/stick_speed_puckline_widget.dart'
+    show StickSpeedPucklineWidget;
+export '/ice_training/training_stick_tech/stick_flypuck/stick_flypuck_widget.dart'
+    show StickFlypuckWidget;
+export '/ice_training/training_stick_tech/stick_underself_outself/stick_underself_outself_widget.dart'
+    show StickUnderselfOutselfWidget;
+export '/ice_training/training_stick_tech/stick_one_hand_line/stick_one_hand_line_widget.dart'
+    show StickOneHandLineWidget;
+export '/ice_training/training_stick_tech/stick_tetris/stick_tetris_widget.dart'
+    show StickTetrisWidget;
+export '/ice_training/training_stick_tech/stick_twice_lie/stick_twice_lie_widget.dart'
+    show StickTwiceLieWidget;
+export '/ice_training/training_shootouts/shootout_datsuyk/shootout_datsuyk_widget.dart'
+    show ShootoutDatsuykWidget;
+export '/ice_training/training_shootouts/shootout_zaripov/shootout_zaripov_widget.dart'
+    show ShootoutZaripovWidget;
+export '/ice_training/training_shootouts/shootout_backhand/shootout_backhand_widget.dart'
+    show ShootoutBackhandWidget;
+export '/ice_training/shootouts/shootouts_widget.dart' show ShootoutsWidget;
+export '/ice_training/training_shootouts/shootout_quick_shot/shootout_quick_shot_widget.dart'
+    show ShootoutQuickShotWidget;
+export '/ice_training/training_shootouts/shootout_in_house/shootout_in_house_widget.dart'
+    show ShootoutInHouseWidget;
+export '/ice_training/training_shootouts/shootout_one_hand/shootout_one_hand_widget.dart'
+    show ShootoutOneHandWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_complex_one/edges_complex_one_widget.dart'
+    show EdgesComplexOneWidget;
+export '/ice_training/trainings_tech_of_skating/edges/edges_slalom_one_leg/edges_slalom_one_leg_widget.dart'
+    show EdgesSlalomOneLegWidget;
+export '/ice_training/trainings_tech_of_skating/virazhy/virazhy_complex_one/virazhy_complex_one_widget.dart'
+    show VirazhyComplexOneWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_triangle/ships_triangle_widget.dart'
+    show ShipsTriangleWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_triangle_two/ships_triangle_two_widget.dart'
+    show ShipsTriangleTwoWidget;
+export '/ice_training/trainings_tech_of_skating/ships/ships_christ/ships_christ_widget.dart'
+    show ShipsChristWidget;
+export '/progress/progress_widget.dart' show ProgressWidget;
+export '/earth_training/earth_speed_training/speed_half_jump/speed_half_jump_widget.dart'
+    show SpeedHalfJumpWidget;
+export '/ice_training/training_tech_of_shooting/shooting_from_myself_outself/shooting_from_myself_outself_widget.dart'
+    show ShootingFromMyselfOutselfWidget;
+export '/ice_training/training_tech_of_shooting/shooting_from_one_leg_on_platorm_side/shooting_from_one_leg_on_platorm_side_widget.dart'
+    show ShootingFromOneLegOnPlatormSideWidget;
+export '/ice_training/trainings_tech_of_skating/edges/b_t_o_f_on_back/b_t_o_f_on_back_widget.dart'
+    show BTOFOnBackWidget;
+export '/change_profile/change_profile_widget.dart' show ChangeProfileWidget;
+export '/home_page/home_page_widget.dart' show HomePageWidget;
